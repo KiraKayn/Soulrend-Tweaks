@@ -27,3 +27,24 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# eclipse
+bin
+*.launch
+.metadata
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+logs
