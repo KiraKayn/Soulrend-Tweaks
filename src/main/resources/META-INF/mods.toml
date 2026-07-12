@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+
+license="LGPL-2.1-or-later"
+issueTrackerURL=""
+showAsResourcePack=false
+
+[[mods]]
+modId="soulrend_tweaks"
+version="${version}"
+displayName="Soulrend Tweaks"
+displayURL=""
+logoFile=""
+credits="me"
+authors="Kayn"
+description='''
+A mod that adds unique content for the Soulrend Modpack
+  '''
+
+[[dependencies.soulrend_tweaks]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.soulrend_tweaks]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.soulrend_tweaks]]
+modId="apotheosis"
+mandatory=true
+versionRange="[1.0,)"
+ordering="AFTER"
+side="BOTH"
