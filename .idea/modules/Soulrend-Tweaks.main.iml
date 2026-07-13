@@ -42,6 +42,8 @@
     <orderEntry type="library" name="Gradle: dev.shadowsoffire:Placebo:1.20.1-8.6.3_mapped_official_1.20.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.shadowsoffire:ApothicAttributes:1.20.1-1.3.7_mapped_official_1.20.1" level="project" />
     <orderEntry type="library" name="Gradle: dev.shadowsoffire:Apotheosis:1.20.1-7.4.8_mapped_official_1.20.1" level="project" />
+    <orderEntry type="library" name="Gradle: curse.maven:epic-fight-mod-405076:8049910_mapped_official_1.20.1" level="project" />
+    <orderEntry type="library" name="Gradle: curse.maven:passive-skill-tree-850298:8397486_mapped_official_1.20.1" level="project" />
     <orderEntry type="library" name="Gradle: curse.maven:fallen-gems-affixes-1286177:7785848_mapped_official_1.20.1" level="project" />
     <orderEntry type="library" name="Gradle: curse.maven:esoteric-reforging-forge-1150370:5989440_mapped_official_1.20.1" level="project" />
     <orderEntry type="library" name="Gradle: curse.maven:ancient-reforging-985468:5527109_mapped_official_1.20.1" level="project" />

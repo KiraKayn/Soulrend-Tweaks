@@ -4,6 +4,7 @@
   "compatibilityLevel": "JAVA_17",
   "refmap": "soulrend_tweaks.refmap.json",
   "mixins": [
+    "DualWieldingEntityPredicateMixin",
     "SigilOfWithdrawalTooltipMixin",
     "WithdrawalRecipeMixin"
   ],
