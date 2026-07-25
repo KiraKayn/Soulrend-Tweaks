@@ -37,3 +37,10 @@ mandatory=true
 versionRange="[1.0,)"
 ordering="AFTER"
 side="BOTH"
+
+[[dependencies.soulrend_tweaks]]
+modId="dungeons_and_combat"
+mandatory=true
+versionRange="[1.2.4,)"
+ordering="AFTER"
+side="BOTH"

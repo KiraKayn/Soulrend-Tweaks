@@ -5,6 +5,7 @@
   "refmap": "soulrend_tweaks.refmap.json",
   "mixins": [
     "DualWieldingEntityPredicateMixin",
+    "HighPriestFix",
     "SigilOfWithdrawalTooltipMixin",
     "WithdrawalRecipeMixin"
   ],

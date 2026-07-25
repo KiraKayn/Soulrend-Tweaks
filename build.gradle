@@ -138,6 +138,9 @@ dependencies {
     implementation fg.deobf("curse.maven:ancient-reforging-985468:5527109")
     implementation fg.deobf("curse.maven:jade-324717:${jade_file_id}")
 
+    // dungeons-and-combat
+    implementation fg.deobf("curse.maven:dungeons-and-combat-1128235:7193486")
+
     // Libs
     runtimeOnly fg.deobf("curse.maven:cloth-config-348521:5729105")
     runtimeOnly fg.deobf("top.theillusivec4.curios:curios-forge:${curios_version}")
