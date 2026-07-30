@@ -41,6 +41,6 @@ side="BOTH"
 [[dependencies.soulrend_tweaks]]
 modId="fallen_lib"
 mandatory=true
-versionRange="[1.2.0,)"
+versionRange="[1.4.4,)"
 ordering="AFTER"
 side="BOTH"
