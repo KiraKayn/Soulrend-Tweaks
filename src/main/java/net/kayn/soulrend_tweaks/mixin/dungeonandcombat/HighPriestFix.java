@@ -1,4 +1,4 @@
-package net.kayn.soulrend_tweaks.mixin;
+package net.kayn.soulrend_tweaks.mixin.dungeonandcombat;
 
 import net.mcreator.dungeonsandcombat.procedures.HighPriestOnEntityTickUpdateProcedure;
 import net.minecraft.world.entity.Entity;

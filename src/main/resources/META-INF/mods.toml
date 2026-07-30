@@ -39,8 +39,8 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.soulrend_tweaks]]
-modId="dungeons_and_combat"
+modId="fallen_lib"
 mandatory=true
-versionRange="[1.2.4,)"
+versionRange="[1.2.0,)"
 ordering="AFTER"
 side="BOTH"
